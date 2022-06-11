@@ -1,25 +1,5 @@
 {
-  "apps": [
-    {
-      "beta": false,
-      "bundleIdentifier": "com.astafiev.app",
-      "developerName": "Zchandev",
-      "downloadURL": "https://zchan.app/download/ios/iChan.ipa",
-      "iconURL": "https://github.com/Zchandev/iChan/raw/master/assets/icon/icon.png",
-      "localizedDescription": "Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk",
-      "name": "iChan",
-      "screenshotURLs": [
-        "https://camo.githubusercontent.com/3059dbd99bd10f67e7385711df8dd4659df6cf8ec6dd3fa48896b309c880c07e/68747470733a2f2f7a6368616e2e6170702f6173736574732f73637265656e352e706e67",
-        "https://camo.githubusercontent.com/7f53b5e0c447ebccf2e49435d2f6165cb47e82975ff3a1a1282535fab19ca2d3/68747470733a2f2f7a6368616e2e6170702f6173736574732f73637265656e342e706e67"
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "fe8000",
-      "version": "1.20.9211316+1195",
-      "versionDate": "2022-02-02T14:00:00-07:00",
-      "versionDescription": ""
-    }
-  ],
+  "apps": [],
   "identifier": "io.github.detachhead",
   "name": "detachhead",
   "news": [],
