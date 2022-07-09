@@ -1,5 +1,27 @@
 {
-  "apps": [],
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHelal",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/2.9.7/Twitter_9.15.2_BHTwitter_2.9.7.ipa",
+      "iconURL": "https://assets.materialup.com/uploads/a649be95-9291-44f5-b2d9-da74a3796e37/0x0ss-85.jpg",
+      "localizedDescription": "# Features\n- Download Videos (even if account private).\n- Replay later feature.\n- Custom Tab Bar\n- Video zoom feature.\n- No history feature.\n- Hide topics tweet feature.\n- Disable video layer caption.\n- Padlock.\n- Font changer.\n- Disable double tap to like.\n- Enable the new UI of DM search.\n- Auto load photos in highest quality feature.\n- Undo tweet feature.\n- Reader mode feature.\n- Disable new tweet style (A.K.A edge to edge tweet)\n- Enable voice tweet and voice message in DM.\n- Hide promoted tweet from the timeline.\n- Confirm alert when hit the tweet button.\n- Confirm alert when hit like button.\n- Confirm alert when hit follow button.\n- FLEX for debugging.",
+      "name": "BHTwitter",
+      "screenshotURLs": [
+        "https://github.com/BandarHL/BHTwitter/raw/master/1.png",
+        "https://github.com/BandarHL/BHTwitter/raw/master/2.png",
+        "https://github.com/BandarHL/BHTwitter/raw/master/3.png",
+        "https://github.com/BandarHL/BHTwitter/raw/master/4.png"
+      ],
+      "size": 110188234,
+      "subtitle": " Awesome tweak for Twitter",
+      "tintColor": "1DA1F2",
+      "version": "2.9.7",
+      "versionDate": "2022-07-06T14:00:00-07:00",
+      "versionDescription": "• Add new feature: Theme like Twitter blue\n• Add a new feature: Hide spaces bar\n• Add a new feature: Disable RTL\n• Fix RTL issue with Save tweet as an image\n• Fix the colour issue with Save tweet as an image\n• Fix voice in DM feature\n• Fix issues with the Font feature\n• Fix Auto Highest Load feature"
+    }
+  ],
   "identifier": "io.github.detachhead",
   "name": "detachhead",
   "news": [],
