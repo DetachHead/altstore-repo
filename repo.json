@@ -20,6 +20,25 @@
       "version": "2.9.7",
       "versionDate": "2022-07-06T14:00:00-07:00",
       "versionDescription": "• Add new feature: Theme like Twitter blue\n• Add a new feature: Hide spaces bar\n• Add a new feature: Disable RTL\n• Fix RTL issue with Save tweet as an image\n• Fix the colour issue with Save tweet as an image\n• Fix voice in DM feature\n• Fix issues with the Font feature\n• Fix Auto Highest Load feature"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "BigBoss",
+      "downloadURL": "https://i.gamingti.me/m/ipa/TikTok_LRD_23.5.0.ipa",
+      "iconURL": "https://static.appdb.to/images/cydia-985681828-icon-1645505919.png",
+      "localizedDescription": "|| Save video without watermark\n|| Share or save the video\n|| Hide the user interface\n|| Play the next video automatically\n|| Skip watching live while watching automatically\n|| Show progress bar for video\n|| Enable high-quality video upload\n|| Save a profile picture\n|| Show the number of videos\n|| Create favorite groups\n|| Increase the number of letters in the comment to 240\n|| Show the country code for the video\n|| Enable copying for description and account\n|| Enable comments transparency\n|| hide you just saw\n|| Read closed comments\n|| Watching videos under review\n|| Show creation video date\n|| Hide ADS\n|| Change country\n|| Confirm | cancel the like\n|| Confirm | cancel the like in the comments\n|| Confirm | cancel the follow\n|| Lock the app 🔐",
+      "name": "TikTokLRD",
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-985681828-iphone-0-1645503303.png",
+        "https://static.appdb.to/images/cydia-985681828-iphone-1-1645503303.png"
+      ],
+      "size": 109328469,
+      "subtitle": "Add features to the TikTok App",
+      "tintColor": "000000",
+      "version": "23.5.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Update Tiktok to v23.5.0"
     }
   ],
   "identifier": "io.github.detachhead",
