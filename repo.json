@@ -35,7 +35,7 @@
       "tintColor": "DC4ADD",
       "version": "1.0.1",
       "versionDate": "2022-09-03T14:00:00-07:00",
-      "versionDescription": "See reddit post for installation instructions:\nhttps://www.reddit.com/r/jailbreak/comments/x44cpj/free_release_trollstore_jailed_permasigned_app/\n\nTrollStore Installer probably only supports arm64e at the moment, arm64 support will be looked into soon."
+      "versionDescription": "• Prevent opening undownloaded iCloud drive files\n• Fix a bug where TrollStore would crash when installing big apps\n• Show detailed error when an app install fails\n• (Hopefully) fix a bug where TrollStore would wrongly abort an app install because it thinks an app with the id is already installed"
     }
   ],
   "identifier": "io.github.detachhead",
