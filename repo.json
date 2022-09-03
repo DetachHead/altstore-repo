@@ -25,15 +25,15 @@
       "beta": false,
       "bundleIdentifier": "com.opa334.TrollInstaller",
       "developerName": "Lars Fröder",
-      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0/TrollInstaller.ipa",
+      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0.1/TrollInstaller.ipa",
       "iconURL": "https://github.com/opa334/TrollStore/raw/main/Installer/TrollInstaller/TrollInstaller/Assets.xcassets/AppIcon.appiconset/1024.png",
       "localizedDescription": "TrollStore in a permasigned jailed app that can permanently install any IPA you open in it.",
       "name": "TrollStore",
       "screenshotURLs": [],
-      "size": 918490,
+      "size": 922256,
       "subtitle": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "tintColor": "DC4ADD",
-      "version": "1.0",
+      "version": "1.0.1",
       "versionDate": "2022-09-03T14:00:00-07:00",
       "versionDescription": "See reddit post for installation instructions:\nhttps://www.reddit.com/r/jailbreak/comments/x44cpj/free_release_trollstore_jailed_permasigned_app/\n\nTrollStore Installer probably only supports arm64e at the moment, arm64 support will be looked into soon."
     }
