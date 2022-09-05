@@ -25,17 +25,17 @@
       "beta": false,
       "bundleIdentifier": "com.opa334.TrollInstaller",
       "developerName": "Lars Fröder",
-      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0.1/TrollInstaller.ipa",
+      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0.5/TrollInstaller.ipa",
       "iconURL": "https://github.com/opa334/TrollStore/raw/main/Installer/TrollInstaller/TrollInstaller/Assets.xcassets/AppIcon.appiconset/1024.png",
       "localizedDescription": "TrollStore in a permasigned jailed app that can permanently install any IPA you open in it.",
       "name": "TrollStore",
       "screenshotURLs": [],
-      "size": 922256,
+      "size": 916582,
       "subtitle": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "tintColor": "DC4ADD",
-      "version": "1.0.1",
-      "versionDate": "2022-09-03T14:00:00-07:00",
-      "versionDescription": "• Prevent opening undownloaded iCloud drive files\n• Fix a bug where TrollStore would crash when installing big apps\n• Show detailed error when an app install fails\n• (Hopefully) fix a bug where TrollStore would wrongly abort an app install because it thinks an app with the id is already installed"
+      "version": "1.0.5",
+      "versionDate": "2022-09-04T14:00:00-07:00",
+      "versionDescription": "Installer:\n• Should work on A15 iPads now\nsilent update: added ipod 7 support\n\nStore:\n• Installed apps should now get notification permissions (Notifications work now, but App Plugins still don't, so support is limited) (For already installed apps, just open the IPA in TrollStore once more)\n• Fix (un)installation of apps with weird file permissions (e.g. unc0ver)\n• Fix installing IPAs that are on iCloud Drive"
     }
   ],
   "identifier": "io.github.detachhead",
