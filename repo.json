@@ -25,17 +25,17 @@
       "beta": false,
       "bundleIdentifier": "com.opa334.TrollInstaller",
       "developerName": "Lars Fröder",
-      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0.5/TrollInstaller.ipa",
+      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0.7/TrollInstaller.ipa",
       "iconURL": "https://github.com/opa334/TrollStore/raw/main/Installer/TrollInstaller/TrollInstaller/Assets.xcassets/AppIcon.appiconset/1024.png",
       "localizedDescription": "TrollStore in a permasigned jailed app that can permanently install any IPA you open in it.",
       "name": "TrollStore",
       "screenshotURLs": [],
-      "size": 916582,
+      "size": 925696,
       "subtitle": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "tintColor": "DC4ADD",
-      "version": "1.0.5",
+      "version": "1.0.7",
       "versionDate": "2022-09-04T14:00:00-07:00",
-      "versionDescription": "Installer:\n• Should work on A15 iPads now\nsilent update: added ipod 7 support\n\nStore:\n• Installed apps should now get notification permissions (Notifications work now, but App Plugins still don't, so support is limited) (For already installed apps, just open the IPA in TrollStore once more)\n• Fix (un)installation of apps with weird file permissions (e.g. unc0ver)\n• Fix installing IPAs that are on iCloud Drive"
+      "versionDescription": "• Don't resign an app when the main binary is already signed with a fake root certificate\n• Don't resign an app when the Info.plist has a `TSBundlePreSigned` key that's set to `YES`\n• If ldid is not installed and an app is unsigned, throw an error instead of installing it because it would just crash on launch anyways\n• Improve entitlement dumping by using a system API instead of homebrewed file parsing code\n\nThis update mostly consists of contributions by @luken11 !"
     }
   ],
   "identifier": "io.github.detachhead",
