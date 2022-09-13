@@ -25,17 +25,17 @@
       "beta": false,
       "bundleIdentifier": "com.opa334.TrollInstaller",
       "developerName": "Lars Fröder",
-      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0.8/TrollInstaller.ipa",
+      "downloadURL": "https://github.com/opa334/TrollStore/releases/download/1.0.10/TrollInstaller.ipa",
       "iconURL": "https://github.com/opa334/TrollStore/raw/main/Installer/TrollInstaller/TrollInstaller/Assets.xcassets/AppIcon.appiconset/1024.png",
       "localizedDescription": "TrollStore in a permasigned jailed app that can permanently install any IPA you open in it.",
       "name": "TrollStore",
       "screenshotURLs": [],
-      "size": 925488,
+      "size": 930748,
       "subtitle": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "tintColor": "DC4ADD",
-      "version": "1.0.8",
-      "versionDate": "2022-09-10T14:00:00-07:00",
-      "versionDescription": "• Pretend apps installed through TrollStore are ad hoc signed, not sure if this improves anything but I found some checks for it\n• Remove apple owned URL schemes when installing apps, prevents apps from breaking system functionality (if you have such an app installed, reinstall the IPA after updating to TrollStore 1.0.8)\n• Prevent deletion of group containers when another app is still uses it\n• Fix another small file permission problem when installing some very specific IPAs\n• Add a pop up when pressing an app in the list, currently only has an uninstall option\n• Code improvments, more detailed error messages on installation failure"
+      "version": "1.0.10",
+      "versionDate": "2022-09-13T14:00:00-07:00",
+      "versionDescription": "• Fix a bug where TrollStore could crash on launch (OTA updates via tar should still be working in this state tho)\n• Small visual improvement to app border"
     }
   ],
   "identifier": "io.github.detachhead",
