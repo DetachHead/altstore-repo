@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHelal",
-      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.8/Twitter_9.47_BHTwitter_3.8.ipa",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.9/Twitter_9.47_BHTwitter_3.9.ipa",
       "iconURL": "https://assets.materialup.com/uploads/a649be95-9291-44f5-b2d9-da74a3796e37/0x0ss-85.jpg",
       "localizedDescription": "# Features\n- Download Videos (even if account private).\n- Replay later feature.\n- Custom Tab Bar\n- Video zoom feature.\n- No history feature.\n- Hide topics tweet feature.\n- Disable video layer caption.\n- Padlock.\n- Font changer.\n- Disable double tap to like.\n- Enable the new UI of DM search.\n- Auto load photos in highest quality feature.\n- Undo tweet feature.\n- Reader mode feature.\n- Disable new tweet style (A.K.A edge to edge tweet)\n- Enable voice tweet and voice message in DM.\n- Hide promoted tweet from the timeline.\n- Confirm alert when hit the tweet button.\n- Confirm alert when hit like button.\n- Confirm alert when hit follow button.\n- FLEX for debugging.",
       "name": "BHTwitter",
@@ -14,12 +14,12 @@
         "https://github.com/BandarHL/BHTwitter/raw/master/3.png",
         "https://github.com/BandarHL/BHTwitter/raw/master/4.png"
       ],
-      "size": 89351539,
+      "size": 97330101,
       "subtitle": "Awesome tweak for Twitter",
       "tintColor": "1DA1F2",
-      "version": "3.8.0",
-      "versionDate": "2023-03-05T14:00:00-07:00",
-      "versionDescription": "• Fix crash with Twitter 9.47\n• Remove tweet source option\n• Add new feature to disable the new video player (Immersive Player)"
+      "version": "3.9.0",
+      "versionDate": "2023-03-07T14:00:00-07:00",
+      "versionDescription": "• Fix crash with TrollStore.\n• Add a new option to show the scroll bar again."
     }
   ],
   "identifier": "io.github.detachhead",
