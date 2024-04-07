@@ -14,12 +14,28 @@
         "https://github.com/BandarHL/BHTwitter/raw/master/3.png",
         "https://github.com/BandarHL/BHTwitter/raw/master/4.png"
       ],
-      "size": 96309248,
+      "size": 126768317,
       "subtitle": "Awesome tweak for Twitter",
       "tintColor": "1DA1F2",
       "version": "3.9.1",
-      "versionDate": "2023-03-07T14:00:00-07:00",
+      "versionDate": "2024-02-11T14:00:00-07:00",
       "versionDescription": "• Upload custom voice\n• Select URL host like fxtwitter or vxtwitter of tweet after copy.\n• remove unnecessary options."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.11/Dopamine.ipa",
+      "iconURL": "https://raw.githubusercontent.com/opa334/Dopamine/2.x/Application/Dopamine/Assets.xcassets/AppIcon.appiconset/Icon-76%402x.png",
+      "localizedDescription": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
+      "name": "Dopamine",
+      "screenshotURLs": [],
+      "size": 49682668,
+      "subtitle": "semi-untethered jailbreak for iOS 15 and 16",
+      "tintColor": "097A73",
+      "version": "2.0.11",
+      "versionDate": "2024-03-11T14:00:00-07:00",
+      "versionDescription": "• Actually fix relevant file path permissions when rejailbreaking (previously the method for this existed but was never called, sigh...), this should now actually automatically fix issues such as NewTerm / SSH not working"
     }
   ],
   "identifier": "io.github.detachhead",
