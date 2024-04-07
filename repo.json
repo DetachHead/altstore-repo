@@ -36,6 +36,22 @@
       "version": "2.0.11",
       "versionDate": "2024-03-11T14:00:00-07:00",
       "versionDescription": "• Actually fix relevant file path permissions when rejailbreaking (previously the method for this existed but was never called, sigh...), this should now actually automatically fix issues such as NewTerm / SSH not working"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "developerName": "alfiecg24",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.1/TrollInstallerX.ipa",
+      "iconURL": "https://github.com/alfiecg24/TrollInstallerX/blob/main/TrollInstallerX/Assets.xcassets/Icon.imageset/TIX.png?raw=true",
+      "localizedDescription": "TrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.",
+      "name": "TrollInstallerX",
+      "screenshotURLs": [],
+      "size": 6888465,
+      "subtitle": "A TrollStore installer for iOS 14.0 - 16.6.1",
+      "tintColor": "0083ED",
+      "version": "1.0.1",
+      "versionDate": "2024-04-07T14:00:00-07:00",
+      "versionDescription": "• Add success message at the end of the installation\n• Fix bug in supported version checking\n• Add (untested) support for early iOS 17.0 betas\nEdit: early iOS 17.0 betas currently won't work. A fix will come in v1.0.2."
     }
   ],
   "identifier": "io.github.detachhead",
